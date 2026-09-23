@@ -1,0 +1,1 @@
+# WeCom iOS static mockup\n\nStatic visual prototype for demonstration/testing only. No camera access, form submission, analytics, or data collection is implemented.\n\nThe page is intentionally excluded from search indexing.\n
